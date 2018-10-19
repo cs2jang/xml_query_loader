@@ -1,5 +1,6 @@
 # xml_query_loader
-Load query in XML file
+Load query string from XML file
+
 
 ## Use
 See sample.py
